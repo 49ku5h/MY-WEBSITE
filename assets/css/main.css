@@ -1,9 +1,7 @@
 * {
-
  margin: 0;
  padding: 0;
 }
-
 
 html, body { height: 100%; }
 
@@ -34,7 +32,7 @@ body {
 }
 
 #profile {
- background-image: url(../images/1.jpg);
+ background-image: url(../images/1.png);
  background-size: cover;
  border-radius: 50%;
  z-index: 1;
@@ -44,7 +42,7 @@ body {
 }
 
 .home-body h1 {
- font-family: 'afta-serif', sans-serif;
+ font-family: 'afta-serif',sans-serif;
  font-size: 2.5em;
  letter-spacing: 2px;
  margin-top: 20px;
@@ -75,6 +73,11 @@ body {
  padding: 10px;
  color:  #000000;
  font-weight:bold;
+ -webkit-transition: all 0.2s ease-in;
+ -moz-transition: all 0.2s ease-in;
+ -ms-transition: all 0.2s ease-in;
+ -o-transition: all 0.2s ease-in;
+ transition: all 0.2s ease-in;
 
 }
 
@@ -208,7 +211,7 @@ body {
 }
 
 #gpg-fingerprint {
- display: ;
+ display: block;
  margin: 20px;
  font-weight: bold;
 }
@@ -373,7 +376,7 @@ a:visited { color: #205caa; }
 
 .site-footer li,
 .site-footer p {
- font-size: 30px;
+ font-size: 15px;
  letter-spacing: -.3px;
  color: #828282;
 }
@@ -406,7 +409,7 @@ a:visited { color: #205caa; }
  padding: 30px 0;
  min-height: 100%;
  padding-bottom: 120px;
- background-color:#E38AAE;
+ background-color: #E38AAE;
 }
 
 /* Home styles */page-content
@@ -730,32 +733,31 @@ li pre {
 
 
 @font-face {
- font-family: 'fluo_gums',serif;
- font-style: italic;
- font-weight: normal;
- src: url("../font/fluo_gums.zip");
-  }
+  font-family: 'AvenirNext-Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: url("../font/avenirnext-regular.woff"); }
 
 @font-face {
- font-family: 'annie-use-your-telescope';
- font-style: normal;
- font-weight: normal;
- src: url("../font/avenirnext-thin.woff"); }
+  font-family: 'AvenirNext-Thin';
+  font-style: normal;
+  font-weight: normal;
+  src: url("../font/avenirnext-thin.woff"); }
 
 @font-face {
- font-family: 'AvenirNext-Bold';
- font-style: normal;
- font-weight: normal;
- src: url("../font/avenirnext-bold.woff"); }
+  font-family: 'AvenirNext-Bold';
+  font-style: normal;
+  font-weight: normal;
+  src: url("../font/avenirnext-bold.woff"); }
 
 @font-face {
- font-family: 'Aileron-Thin';
- font-style: normal;
- font-weight: normal;
- src: url("../font/Aileron-Thin.otf"); }
+  font-family: 'Aileron-Thin';
+  font-style: normal;
+  font-weight: normal;
+  src: url("../font/Aileron-Thin.otf"); }
 
 @font-face {
- font-family: 'Roboto-Thin';
- font-style: normal;
- font-weight: normal;
- src: url("../font/Roboto-Thin.ttf"); }
+  font-family: 'Roboto-Thin';
+  font-style: normal;
+  font-weight: normal;
+  src: url("../font/Roboto-Thin.ttf"); }
