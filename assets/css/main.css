@@ -7,7 +7,7 @@ html, body { height: 100%; }
 
 body {
 
- font-family: Helvetica, Arial, sans-serif;
+ font-family: 'almendra-display',serif;
  font-size: 16px;
  line-height: 1.5;
  font-weight: 300;
@@ -32,7 +32,7 @@ body {
 }
 
 #profile {
- background-image: url(../images/1.jpg);
+ background-image: url(../images/1.png);
  background-size: cover;
  border-radius: 50%;
  z-index: 1;
@@ -42,19 +42,17 @@ body {
 }
 
 .home-body h1 {
- font-family: 'afta-serif',sans-serif;
- font-size: 2.5em;
- letter-spacing: 2px;
- margin-top: 20px;
- margin-bottom: 0px;
-
+  font-family: 'Roboto-Thin', sans-serif;
+  font-size: 2.5em;
+  letter-spacing: 2px;
+  margin-top: 20px;
+  margin-bottom: 0px;
 }
 
 .home-body h3 {
- font-family: 'Aileron-Thin', sans-serif;
- font-size: 1.5em;
- letter-spacing: 3px;
- font-weight:bold;
+  font-family: 'Aileron-Thin', sans-serif;
+  font-size: 0.9em;
+  letter-spacing: 3px;
 }
 
 #home-content hr {
