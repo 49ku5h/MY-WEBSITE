@@ -1,0 +1,18 @@
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+gems:
+  - jekyll-sitemap
+permalink: blogs/:title/
+title: ANKUSH JAIN
+email: jainankush822@gmail.com
+description: Website of ANKUSH JAIN, Undergraduate student at Amity University
+keywords: Tamanna, Goyal, tamc0de,  security, developer, geek, programmer, github
+baseurl: ""
+url: http://ankushjain.xyz
+name: Tam Code\'s blog
+author:
+  name: ANKUSH JAIN
