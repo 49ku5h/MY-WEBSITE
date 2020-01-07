@@ -7,7 +7,7 @@ html, body { height: 100%; }
 
 body {
 
- font-family: Helvetica, Arial, sans-serif;
+ font-family: 'almendra-display',serif;
  font-size: 16px;
  line-height: 1.5;
  font-weight: 300;
@@ -67,24 +67,23 @@ body {
 }
 
 #profile-links .home-links {
- font-family: 'AvenirNext-Regular', sans-serif;
- padding: 10px;
- color:  #000000;
- font-weight:bold;
- -webkit-transition: all 0.2s ease-in;
- -moz-transition: all 0.2s ease-in;
- -ms-transition: all 0.2s ease-in;
- -o-transition: all 0.2s ease-in;
- transition: all 0.2s ease-in;
-
+  font-family: 'AvenirNext-Regular', sans-serif;
+  padding: 10px;
+  color: #555;
+  -webkit-transition: all 0.2s ease-in;
+  -moz-transition: all 0.2s ease-in;
+  -ms-transition: all 0.2s ease-in;
+  -o-transition: all 0.2s ease-in;
+  transition: all 0.2s ease-in;
 }
 
 #profile-links .home-links:hover {
- color:#FF0000;
+  color: #bbb;
+}
 
 #content {
- font-family: 'AvenirNext-Regular', Helvetica, sans-serif;
- font-size: 1.1em;
+  font-family: 'AvenirNext-Regular', Helvetica, sans-serif;
+  font-size: 1.1em;
 }
 
 #content .title {
@@ -115,8 +114,9 @@ body {
 }
 
 #content p a:visited {
- color:#FFFFFF;
+  color: #000;
 }
+
 
 #content p a:hover {
  color: #777;
@@ -404,10 +404,10 @@ a:visited { color: #205caa; }
 /* ----------------------------------------------------------*/
 
 .page-content {
- padding: 30px 0;
- min-height: 100%;
- padding-bottom: 120px;
- background-color: #E38AAE;
+  padding: 30px 0;
+  min-height: 100%;
+  padding-bottom: 120px;
+  background-color: #fff;
 }
 
 /* Home styles */page-content
