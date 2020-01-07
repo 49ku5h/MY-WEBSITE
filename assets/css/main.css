@@ -19,7 +19,6 @@ body {
  border-top: 15px solid #222;
  border-bottom: 15px solid #222;
  box-sizing: border-box;
- background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
  height: initial;
  min-height: 100%;
 }
