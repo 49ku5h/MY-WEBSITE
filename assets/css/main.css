@@ -71,7 +71,7 @@ body {
 #profile-links .home-links {
   font-family: 'AvenirNext-Regular', sans-serif;
   padding: 10px;
-  color: #555;
+  color:#000000;
  font-weight:bold;
   -webkit-transition: all 0.2s ease-in;
   -moz-transition: all 0.2s ease-in;
