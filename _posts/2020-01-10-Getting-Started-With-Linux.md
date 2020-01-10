@@ -8,7 +8,8 @@ keywords: ubuntu, linux, transtition, features, unix, windows, switching, compar
 
 ---
 
-> ## Switching To Linux
+  Switching To Linux
+  
        How I got introduced with LINUX ...
             When I started using  WINDOWS operating system. It's been awhile after using windows for few days I've heard                 about Linux operating system . Well i came to know much interesting stuffs about LINUX, First of all i'd love to             mention that it's OPEN SOURCE most secure and snug operating system.
            'SHELL' is a program which takes command through keyboard and passes to the operating system(the Linux command                 interpreter). Almost all Linux distributions supply a shell program from the GNU Project called bash.
@@ -31,7 +32,8 @@ keywords: ubuntu, linux, transtition, features, unix, windows, switching, compar
 
               
               
-   Some highlights of Linux over Windows...
+   Some highlights of Linux over Windows.
+   
          (i) Open source
              Linux is completely open source project.For me this the most important feature of using Linux.
               
