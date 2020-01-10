@@ -14,7 +14,7 @@ keywords: ubuntu, linux, transtition, features, unix, windows, switching, compar
             When I started using  WINDOWS operating system. It's been awhile after using windows for few days I've heard                 about Linux operating system . Well i came to know much interesting stuffs about LINUX, First of all i'd love to             mention that it's OPEN SOURCE most secure and snug operating system.
            'SHELL' is a program which takes command through keyboard and passes to the operating system(the Linux command                 interpreter). Almost all Linux distributions supply a shell program from the GNU Project called bash.
             When we use Graphical UI(USER INTERFACE), we need a program called TERMINAl. Most extraordinarily thing i've                 liked in Linux. Terminal lets you keep afar to mouse.
-            ![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/Ubuntu_19.10_Eoan_Ermine.png)
+            ![A screenshot of my laptop](https://github.com/49ku5h/MY-WEBSITE/blob/master/assets/images/Shifting-to-                      Ubuntu/Ubuntu_19.10_Eoan_Ermine.png?raw=true)
 
 
             Installing Linux..
