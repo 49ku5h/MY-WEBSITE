@@ -13,22 +13,26 @@ When I started using  WINDOWS operating system. After using windows for few days
 'SHELL' is a program which takes command through keyboard and passes to the operating system(the Linux command interpreter). Almost all Linux distributions supply a shell program from the GNU Project called bash.
 When we use Graphical UI(USER INTERFACE), we need a program called TERMINAl. Most extraordinarily thing i've liked in Linux. Terminal lets you keep afar to mouse.
 
+![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/Ubuntu_19.10_Eoan_Ermine.png)
+
 > ## Installing Linux..
 
-Installing any Linux distribution involves several steps, and I walk you through them briefly.
+Intalling any Linux distribution involves several steps, and I walk you through them briefly.
 
-(I)  You have to download Linux distribution, You can download from here.
+(I)  You have to download Linux distribution, You can download from here [UBUNTU ISO image](https://ubuntu.com/#download).
 
-(II) Create bootable flash drive in WINDOWS using Rufus. You can download the rufus from google
+![A screenshot of my laptop](/assets/images/Screenshot from 2020-01-10 20-26-16.png)
 
-(III) Start the installation process.
+(II) Create bootable flash drive in WINDOWS using Rufus. You can download the rufus from here [Rufus](https://rufus.ie/)
 
 ![A screenshot of my laptop](/assets/images/rufus_en.png)
 
+(III) Start the installation process.
+
+![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/3.jpeg)
+
 (IV) Create a username and password. This helps you to login to your account and perform administrative task
                    
-
-
 (V)  Set up the partition.
                     
 (VI)Boot into Linux.
