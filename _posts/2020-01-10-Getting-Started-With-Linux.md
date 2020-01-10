@@ -10,18 +10,18 @@ keywords: ubuntu, linux, transtition, features, unix, windows, switching, compar
 
   Switching To Linux
   
-       How I got introduced with LINUX ...
+            How I got introduced with LINUX ...
             When I started using  WINDOWS operating system. It's been awhile after using windows for few days I've heard                 about Linux operating system . Well i came to know much interesting stuffs about LINUX, First of all i'd love to             mention that it's OPEN SOURCE most secure and snug operating system.
            'SHELL' is a program which takes command through keyboard and passes to the operating system(the Linux command                 interpreter). Almost all Linux distributions supply a shell program from the GNU Project called bash.
             When we use Graphical UI(USER INTERFACE), we need a program called TERMINAl. Most extraordinarily thing i've                 liked in Linux. Terminal lets you keep afar to mouse.
 
 
-            Installing Linux..
+               Installing Linux..
             
                Following the Installation Steps..
                
                Installing any Linux distribution involves several steps, and I walk you through them briefly.
-               (i)  You have to download Linux distribution, You can download from here                                                           (https://ubuntu.com/download/desktop).
+               (i)  You have to download Linux distribution, You can download from here                                                           [Ubuntu](https://ubuntu.com/download/desktop).
                (ii) Create bootable flash drive in WINDOWS using Rufus.
                     You can download the rufus from google
                (iii) Start the installation process.
