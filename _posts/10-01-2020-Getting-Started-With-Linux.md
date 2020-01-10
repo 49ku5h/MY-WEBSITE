@@ -3,8 +3,6 @@
 layout:	post
 title: "Shifting to Ubuntu From Windows"
 author: "Ankush Jain"
-excerpt: "My transition from Windows to Ubuntu"
-keywords: ubuntu, linux, transtition, features, unix, windows, switching, comparison
 
 ---
 
