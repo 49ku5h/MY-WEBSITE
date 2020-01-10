@@ -21,7 +21,8 @@ Installing any Linux distribution involves several steps, and I walk you through
 (i)  You have to download Linux distribution, You can download from here (https://ubuntu.com/download/desktop).
 
 (ii) Create bootable flash drive in WINDOWS using Rufus. You can download the rufus from google
- ![A screenshot of rufus].(/assets/images/Shifting-to-Ubuntu/rufus_en.png)
+ 
+![A screenshot of rufus].(/assets/images/Shifting-to-Ubuntu/rufus_en.png)
 
 (iii) Start the installation process.
                     (image)
