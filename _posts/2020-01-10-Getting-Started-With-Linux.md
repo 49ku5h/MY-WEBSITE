@@ -23,7 +23,7 @@ Installing any Linux distribution involves several steps, and I walk you through
 
 (III) Start the installation process.
 
-(/assets/images/Shifting-to-Ubuntu/rufus_en.png)
+![A screenshot of my laptop](/assets/images/rufus_en.png)
 
 (IV) Create a username and password. This helps you to login to your account and perform administrative task
                    
