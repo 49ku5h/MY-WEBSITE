@@ -17,7 +17,9 @@ keywords: ubuntu, linux, transtition, features, unix, windows, switching, compar
 
 
             Installing Linux..
+            
                Following the Installation Steps..
+               
                Installing any Linux distribution involves several steps, and I walk you through them briefly.
                (i)  You have to download Linux distribution, You can download from here                                                           (https://ubuntu.com/download/desktop).
                (ii) Create bootable flash drive in WINDOWS using Rufus.
