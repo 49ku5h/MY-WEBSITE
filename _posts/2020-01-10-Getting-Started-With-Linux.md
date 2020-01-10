@@ -21,7 +21,7 @@ Intalling any Linux distribution involves several steps, and I walk you through 
 
 (I)  You have to download Linux distribution, You can download from here [UBUNTU ISO image](https://ubuntu.com/#download).
 
-![A screenshot of my laptop](/assets/images/Screenshot from 2020-01-10 20-26-16.png)
+![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/Screenshot from 2020-01-10 20-26-16.png)
 
 (II) Create bootable flash drive in WINDOWS using Rufus. You can download the rufus from here [Rufus](https://rufus.ie/)
 
