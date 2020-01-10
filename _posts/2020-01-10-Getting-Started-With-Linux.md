@@ -25,7 +25,9 @@ Installing any Linux distribution involves several steps, and I walk you through
 ![A screenshot of rufus].(/assets/images/Shifting-to-Ubuntu/6.jpeg)
 
 (iii) Start the installation process.
-                    (image)
+
+![A screenshot of rufus].(/assets/images/Shifting-to-Ubuntu/rufus_en.png)
+
 (iv) Create a username and password. This helps you to login to your account and perform administrative task
                     (image)
 
