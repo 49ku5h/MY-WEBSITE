@@ -43,9 +43,6 @@ Intalling any Linux distribution involves several steps, and I walk you through 
 
 (VII)Check your hardware.
 
-![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/hardw.jpeg)
-
-
 (VIII) Start using Linux.
 
 ![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/star.jpeg)
