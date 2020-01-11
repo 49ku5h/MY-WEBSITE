@@ -31,26 +31,40 @@ Intalling any Linux distribution involves several steps, and I walk you through 
 
 ![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/3.jpeg)
 
-(IV) Create a username and password. This helps you to login to your account and perform administrative task
+(IV) Create a username and password. This helps you to login to your account and perform administrative task.
+
+![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/start.jpeg)
                    
 (V)  Set up the partition.
+
+![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/parti.jpeg)
                     
 (VI)Boot into Linux.
+
+![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/restat.jpeg)
+
 (VII)Check your hardware.
-(VIII) Start using Linux.              
+
+![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/restat.jpeg)
+
+(VIII) Start using Linux.
+
+![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/star.jpeg)
 
 > ## Some highlights of Linux over Windows...
 
 (I) Open source :- Linux is completely open source project.For me this the most important feature of using Linux.
 
-(II) Secure :-  As i mentioned above Linux is the most secure and snug operting system. But in window you need to install antivirus to keep your computer secure.
+(II) Secure :-  As i mentioned above Linux is the most secure and snug operting system. But in window you need to install                     antivirus to keep your computer secure.
 
-(III) Perfect :- for Programmers Linux supports allmost all of the programming languageslike Python ,c++ and all.
+(III) Perfect :- For Programmers Linux supports allmost all of the programming languages like Python ,c++ and all.
 
-(IV) Customization The most best thing using Linux over Window is the it's customization property. You have no need to install any theme. In Linux you don't like something you simply change it.
+(IV) Customization:- The most best thing using Linux over Window is the it's customization property. You have no need to                          install any theme. In Linux you don't like something you simply change it.
 
 (V)  Variety of Distributions Windo have no flavours or any kind of version but Linux have. All are open source.
 
-(VI) Cost With the fearture of open source, Linux is free of cost!. All distribution of LInux is open source and free of cost.
+(VI) Cost:- With the fearture of open source, Linux is free of cost!. All distribution of LInux is open source and free of               cost.
 
-(VII) Privacy As Microsoft try to collect data from every user. In contrast Linux would be the best solution for privacy buff. Linux distribution do not collect much data as compare to window.
+(VII) Privacy:- As Microsoft try to collect data from every user. In contrast Linux would be the best solution for privacy                   buff. Linux distribution do not collect much data as compare to window.
+
+(VIII) Terminal:- The linux terminal is extremely more powerful than the Windows command prompt. I could do tons of things                     using extremely short commands.
