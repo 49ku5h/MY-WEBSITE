@@ -29,6 +29,8 @@ Intalling any Linux distribution involves several steps, and I walk you through 
 
 (III) Start the installation process.
 
+![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/installl.jpeg)
+
 (IV) Create a username and password. This helps you to login to your account and perform administrative task.
 
 ![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/start.jpeg)
