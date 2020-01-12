@@ -3,7 +3,7 @@
 layout:	post
 title: "Learn Terminal"
 author: "Ankush Jain"
-
+excerpt: "Let's walk through Commands"
 ---
 
 
