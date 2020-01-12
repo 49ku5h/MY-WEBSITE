@@ -10,8 +10,8 @@ excerpt: "Let's walk through Commands"
 TERMINAL
 > ## INTRO..
 
-When I started learning Linux,the term 'SHELL' and ''TERMINAL' popped up often.  SHELL- the Linux command interpreter.The easiest way to get to the Shell is 'TERMINAL EMULATOR'.
-Terminal is 'UI'(User Interface).Terminal is the first application that I've opened after I login  and it closes only when my PC shuts down. The first keys 'ctrl-alt-t'to open Termina and 'sudo-shutdown-h now'to shut down the laptop.
+When I started learning Linux,the term `SHELL` and `TERMINAL` popped up often.  SHELL- the Linux command interpreter.The easiest way to get to the Shell is 'TERMINAL EMULATOR'.
+Terminal is `UI`(User Interface).Terminal is the first application that I've opened after I login  and it closes only when my PC shuts down. The first keys `ctrl-alt-t`to open Terminal and `sudo-shutdown-h now`to shut down the laptop.
 Terminal is much more better than 'cmd'.Terminal keeps you afar away to mouse.
 The things which i've loved  to mention about Terminal it totally works on commands.Linux treminal shouldn't bother to travel whole machine to copy ,move ,trash any things.
 
@@ -19,7 +19,7 @@ The things which i've loved  to mention about Terminal it totally works on comma
 
 > ##  COMMANDS
 
- One thing keep in mind when workinh with commands ,commans never works in uppercase.
+ One thing keep in mind when working with commands ,commands never works in Uppercase.
 
 > ## Directory Operations
 
@@ -39,7 +39,7 @@ The things which i've loved  to mention about Terminal it totally works on comma
 
 (ii) rm -r:- To remove file.
 
-(iii) cp:- To copy file.
+(iii) cp -r:- To copy file.
 
 (iv) mv:- To move file.
 
