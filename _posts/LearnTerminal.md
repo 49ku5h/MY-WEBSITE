@@ -1,3 +1,12 @@
+---
+
+layout:	post
+title: "Learn Terminal"
+author: "Ankush Jain"
+
+---
+
+
 TERMINAL
 > ## INTRO..
 
@@ -6,15 +15,15 @@ Terminal is 'UI'(User Interface).Terminal is the first application that I've ope
 Terminal is much more better than 'cmd'.Terminal keeps you afar away to mouse.
 The things which i've loved  to mention about Terminal it totally works on commands.Linux treminal shouldn't bother to travel whole machine to copy ,move ,trash any things.
 
-> ## Terminal over cmd
+![A screenshot of my Laptop](/assets/images/Terrminal/terminal.png)
 
-> ##  COMANDS
+> ##  COMMANDS
 
-  Some vasal commands..
-
-  One thing keep in mind when workinh with commands ,commans never works in uppercase.
+ One thing keep in mind when workinh with commands ,commans never works in uppercase.
 
 > ## Directory Operations
+
+![Ascreenshot of my Laptop](/assets/images/Terrminal/0.1.png)
 
 (i) mkdir:- Use to create Directory.
 
