@@ -25,38 +25,38 @@ The things which i've loved  to mention about Terminal it totally works on comma
 
 ![Ascreenshot of my Laptop](/assets/images/Terrminal/0.1.png)
 
-(i) mkdir:- Use to create Directory.
+(I) mkdir:- Use to create Directory.
 
-(ii) pwd:- To show current working Directory.
+(II) pwd:- To show current working Directory.
 
-(iii) cd:-Use to open ne Directory.
+(III) cd:-Use to open ne Directory.
 
-(iv) ls:- Use to list all file of current Directory.
+(IV) ls:- Use to list all file of current Directory.
 
 > ## File Management
 
-(i) find:- To find file.
+(I) find:- To find file.
 
-(ii) rm -r:- To remove file.
+(II) rm -r:- To remove file.
 
-(iii) cp -r:- To copy file.
+(III) cp -r:- To copy file.
 
-(iv) mv:- To move file.
+(IV) mv:- To move file.
 
-(v) du -s:- To check disk usage.
+(V) du -s:- To check disk usage.
 
 > ##  Permission Operations
 
-(i) Sudo:- To grant permission in superuser mode.
+(I) Sudo:- To grant permission in superuser mode.
 
 > ## Some usual Operations
 
-(ii) echo:- use to display the line of text.
+(I) echo:- use to display the line of text.
 
-(iii) ping:- Use to get the 'Ip'address of any site
+(II) ping:- Use to get the 'Ip'address of any site
 
-(iii) cat:- Use to show what is written inside the text   file.
+(IV) cat:- Use to show what is written inside the text   file.
 
-(iii) find:- use to search for  file.
+(v) find:- use to search for  file.
 
-(iii) ps:- Display current working process
+(VI) ps:- Display current working process
