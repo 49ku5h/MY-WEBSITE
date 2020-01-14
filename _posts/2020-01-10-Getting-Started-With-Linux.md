@@ -33,7 +33,7 @@ Intalling any Linux distribution involves several steps, and I walk you through 
 
 (IV) Create a username and password. This helps you to login to your account and perform administrative task.
 
-![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/start.jpeg)
+![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/password.jpeg)
                    
 (V)  Set up the partition.
 
@@ -44,6 +44,8 @@ Intalling any Linux distribution involves several steps, and I walk you through 
 ![A screenshot of my laptop](/assets/images/Shifting-to-Ubuntu/restat.jpeg)
 
 (VII)Check your hardware.
+
+![[A screenshot of my laptop]([/assets/images/Shifting-to-Ubuntu/hardware.jpeg)
 
 (VIII) Start using Linux.
 
