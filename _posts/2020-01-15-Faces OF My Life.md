@@ -14,7 +14,7 @@ Every of these faces of my life gives me new experiences and opportunities.
 
 So let's have look on different faces that turns my life...
 
-> ## First Face :A face that changed and create a Vision of my Life .
+> ## First Face :A face that has changed me and create a Vision of my Life .
 
 This is the time when I was in class 10 . Almost my begning of class 10. Like all Indian parent ,my parent also worried about my BOARDS ,but I am ofcourse not😂️  bacause I am very chilled out guy since my childhood .
 Because of my chilled out attitude my parent enrolled me in a coaching class where I met a guy who had specs on his pimpled face and wore a simple t-shirt and jeans under it like a nerd.He was from Hindi medium and I was from english medium.
