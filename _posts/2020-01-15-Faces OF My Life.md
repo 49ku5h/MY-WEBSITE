@@ -35,6 +35,7 @@ But the cycle of learning something new continued. He is still my mentor and alw
 This was the most important face of my life. Life and he taught me lots of new things. This face brought me towards a new morning of my life.
 This face taught me the experience of living life in a short period of time. 
 
+
 > ## Second Face: A face that bosted me to achieve my vision.
 
 AS I told you in my first face, the first face creates a vision of my life. And taught me much more than my expectations. But the second face realizes me how much is important to complete the vision.
