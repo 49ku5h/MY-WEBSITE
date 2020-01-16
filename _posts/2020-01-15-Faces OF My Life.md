@@ -39,6 +39,7 @@ This face taught me the experience of living life in a short period of time.
 > ## Second Face: A face that bosted me to achieve my vision.
 
 AS I told you in my first face, the first face creates a vision of my life. And taught me much more than my expectations. But the second face realizes me how much is important to complete the vision.
+
 This is the time when my 12th exam was over and a few days left for college. One day my mother went for a checkup because she was a cancer patient when I was in the 12th. 
 When they came back I asked my father what's the report so he said it's cancer again. This news shook me very deep. I was not able to decide whether to go for completing higher studies or stop here to take care of her because that time my elder brother had been doing their engineering. I thought who is else here to do take care of her. So I decided to let be here to take care of her. That time every person who was present over there it's my uncle, aunt, and my dear cousins assured me that they all will take care of my mother. But how could I agree or convinced after all it's about my mother, then finally my mom convinced me by saying some meaningful words
 related to my career She said "See Ankush this is your golden period if it's gone once it won't come back,so concentrate on your future and give your best to make your best to make your future bright".On this, I questioned her with a moist voice 
