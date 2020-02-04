@@ -16,8 +16,6 @@ body {
 }
 
 .home-body {
- border-top: 15px solid #222;
- border-bottom: 15px solid #222;
  box-sizing: border-box;
  background: linear-gradient(to right bottom, #051937, #004d7a, #008793, #00bf72, #a8eb12);
  height: initial;
