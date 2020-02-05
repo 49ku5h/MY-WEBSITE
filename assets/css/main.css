@@ -11,8 +11,7 @@ body {
  font-size: 16px;
  line-height: 1.5;
  font-weight: 300;
- background-color: linear-gradient(to right bottom, #051937, #004d7a, #008793, #00bf72, #a8eb12);
- background:linear-gradient(to right bottom, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+ background-color: 
 }
 
 .home-body {
