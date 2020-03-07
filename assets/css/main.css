@@ -16,7 +16,7 @@ body {
 
 .home-body {
  box-sizing: border-box;
- background: linear-gradient(to left bottom, #000000, #3c2227, #783e44, #b85d5d, #fa8072);
+ background-image: 11.png;
  height: initial;
  min-height: 100%;
 }
