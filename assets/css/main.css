@@ -16,7 +16,7 @@ body {
 
 .home-body {
  box-sizing: border-box;
- background-image: 11.png;
+ background-image:url( 11.png);
  height: initial;
  min-height: 100%;
 }
