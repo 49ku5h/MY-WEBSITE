@@ -16,7 +16,7 @@ body {
 
 .home-body {
  box-sizing: border-box;
- background-image:url("11.png");
+ background-image:url(../assets/images/11.png);
  height: initial;
  min-height: 100%;
 }
@@ -29,7 +29,7 @@ body {
 }
 
 #profile {
- background-image: url(../images/IMG_20191028_114447-min.jpg);
+ background-image: url(../images/IMG_20191028_115211.jpg);
  background-size: cover;
  border-radius: 50%;
  z-index: 1;
