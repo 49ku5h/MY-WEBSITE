@@ -11,12 +11,12 @@ body {
  font-size: 16px;
  line-height: 1.5;
  font-weight: 300;
- background-color: 
+ background-image:url(../assets/images/11.png);
+ background-color:
 }
 
 .home-body {
  box-sizing: border-box;
- background-image:url(../assets/images/11.png);
  height: initial;
  min-height: 100%;
 }
