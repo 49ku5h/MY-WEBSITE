@@ -29,8 +29,7 @@ body {
 }
 
 #profile {
- background-image: url(../images/Webp.net-compress-image.jpg
-);
+ background-image: url(../images/Webp.net-compress-image.jpg);
  background-size: cover;
  border-radius: 50%;
  z-index: 1;
