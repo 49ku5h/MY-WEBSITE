@@ -1,20 +1,20 @@
 ---
 
 layout:	post
-title: "Faces Of My Life"
+title: "Phases Of My Life"
 author: "Ankush Jain"
 excerpt: "Faces that turns my Life"
 
 ---
 
-People have turning points in their life. The point that changes their whole life, may update or degrade their life. Although my opposite is from all these people, these people have a turning point but I have turning faces in life.
+People have turning points in their life. A point can change their whole life, It can turn the life is in positive direction or in negative direction. Though my life is opposite from all these people.People have a turning point in their life  but I have turning faces in life.
 That had changed me a lot for not so long ya but for a specific period of time. That,s why I have turning faces. All those faces taught me a lot. Like these faces had changed my way of thinking, changed my way of seeing things.
 These faces had given me different kinds of experiences. These faces taught me life is not so simple as we of think. Life gives us a lot of opportunities now it's up to us whether we grab it or leave it.
 Each of these faces of my life gives me new experiences and opportunities.
 
 So let's have look at different faces that turns my life...
 
-> ## First Face: A face that has changed me and creates a Vision of my Life.
+> ## First Phase: A phase that has changed me and creates a Vision of my Life.
 
 This is the time when I was in class 10. Almost my beginning of class 10. Like all Indian parents, my parents also worried about my BOARDS, but I am of course not😂️  because I am a very chilled out guy since my childhood.
 Because of my chilled out attitude, my parents enrolled me in a coaching class where I met a guy who had specs on his pimpled face and wore a simple t-shirt and jeans under it like a nerd. He was from the Hindi medium and I was from the English medium.
